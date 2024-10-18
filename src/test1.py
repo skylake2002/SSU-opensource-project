@@ -1,1 +1,1 @@
-ㅇㅇㅇㅇ
+print("Hello World")
