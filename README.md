@@ -13,7 +13,11 @@
 • 환자의 동작 수정
 
 ***
+# 해야 할 일
+• ~~과제~~
+• 물리치료사 섭외
 
+***
 # **활용 라이브러리**
 • [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
